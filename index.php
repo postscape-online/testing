@@ -4,7 +4,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--><html lang="ja"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>testing</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="stylesheet" type="text/css" href="css/init.css"/>
