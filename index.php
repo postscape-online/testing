@@ -37,6 +37,8 @@
 			<p>こちらissue2のブランチです。</p>
 			
 		</div>
+
+		<p>これはissue3のブランチです。</p>
 	
 	</div><!-- Component:#wrapper --> 
 
