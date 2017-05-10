@@ -33,6 +33,8 @@
 				sortNumber(number);
 				console.log(number);
 			</script>
+
+			<p>こちらissue2のブランチです。</p>
 			
 		</div>
 	
