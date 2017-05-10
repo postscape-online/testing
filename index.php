@@ -35,6 +35,8 @@
 			</script>
 			
 		</div>
+
+		<p>これはissue3のブランチです。</p>
 	
 	</div><!-- Component:#wrapper --> 
 
