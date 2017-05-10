@@ -25,7 +25,7 @@
 			?>
 
 			<script>
-				
+				console.log("テスティング");
 			</script>
 
 
